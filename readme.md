@@ -39,6 +39,7 @@ https://satochi.com.br/ <br>
 
 <div align="center">
   <a href="https://github.com/admintoshi2017/">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=admintoshi2017&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admintoshi2017&layout=compact&theme=dark"/>
 </div> <br>
