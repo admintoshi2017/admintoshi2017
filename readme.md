@@ -40,7 +40,7 @@ https://satochi.com.br/ <br>
 <div align="center">
   <a href="https://github.com/admintoshi2017/">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=admintoshi2017&show_icons=true&theme=transparent"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4"/>
    
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=admintoshi2017&show_icons=true&theme=dark"/>
 
