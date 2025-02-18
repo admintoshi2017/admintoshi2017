@@ -43,8 +43,7 @@ https://satochi.com.br/ <br>
   </div> <br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=admintoshi2017&theme=flat&column=7" alt="GitHub Trophies"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=admintoshi2017&theme=nord&column=7" alt="GitHub Trophies"/>
-</div>
+  </div>
 <hr>
 
 
