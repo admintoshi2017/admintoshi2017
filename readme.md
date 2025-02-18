@@ -38,12 +38,12 @@ https://satochi.com.br/ <br>
 ## Statistic •
 
 <div align="center">
-  <a href="https://github.com/satochi-yamamoto/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&theme=dark"/>
+  <a href="https://github.com/admintoshi2017/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=admintoshi2017&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admintoshi2017&layout=compact&theme=dark"/>
 </div> <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satochi-yamamoto&theme=nord&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=admintoshi2017&theme=nord&column=7" alt="GitHub Trophies"/>
 </div>
 <hr>
 
